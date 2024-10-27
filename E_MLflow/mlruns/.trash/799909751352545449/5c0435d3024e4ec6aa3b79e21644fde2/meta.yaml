@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/799909751352545449/5c0435d3024e4ec6aa3b79e21644fde2/artifacts
+deleted_time: 1728840709571
+end_time: 1728840698030
+entry_point_name: ''
+experiment_id: '799909751352545449'
+lifecycle_stage: deleted
+run_id: 5c0435d3024e4ec6aa3b79e21644fde2
+run_name: nebulous-jay-668
+run_uuid: 5c0435d3024e4ec6aa3b79e21644fde2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728840697939
+status: 3
+tags: []
+user_id: JORGE LUIS

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/868360441819091640/8e5769d7ab9d4944a4fd8a851a61ea9d/artifacts
+deleted_time: 1728840588620
+end_time: 1728840545222
+entry_point_name: ''
+experiment_id: '868360441819091640'
+lifecycle_stage: deleted
+run_id: 8e5769d7ab9d4944a4fd8a851a61ea9d
+run_name: wistful-wolf-666
+run_uuid: 8e5769d7ab9d4944a4fd8a851a61ea9d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728840545123
+status: 3
+tags: []
+user_id: JORGE LUIS
